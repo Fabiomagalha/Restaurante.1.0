@@ -1,0 +1,22 @@
+package Loja;
+
+public class Mesas {
+    private int numero;
+    private int qtdcadeiras;
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public int getQtdcadeiras() {
+        return qtdcadeiras;
+    }
+
+    public void setQtdcadeiras(int qtdcadeiras) {
+        this.qtdcadeiras = qtdcadeiras;
+    }
+}
